@@ -1,16 +1,16 @@
-<h1 align="center">Ravshanbekov Muhammaddiyor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Farruxbek Nozimov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr>
 
 <h3>I'm Web developer!👨🏻‍💻</h3>
 
-- 🌱 I’m currently learning Telegram bots
-- 💬 Ask me about php Websites
+- 🌱 I’m currently learning NodeJS
+- 💬 Ask me about Websites
 - 📫 How to reach me: 
 
-<a href="https://t.me/Ravshanbekov_21">
+<a href="https://t.me/FarruxbekNozimov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.instagram.com/_ravshanbekov_21/">
+<a href="https://www.instagram.com/farruxbekyu/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 <hr>
@@ -18,6 +18,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
     <code><img width="7%" src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
