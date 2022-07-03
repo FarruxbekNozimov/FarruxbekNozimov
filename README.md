@@ -22,7 +22,7 @@
     <code><img width="10%" src="https://img.icons8.com/color/452/c-programming.png"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-    <code><img width="10%" src="https://spng.subpng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
     <code><img width="7%" src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
