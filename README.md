@@ -28,6 +28,7 @@
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
     <br>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
+    <code><img width="10%" src="https://img.icons8.com/color/452/c-programming.png"></code>
 </p>
 
 <p align="center">
