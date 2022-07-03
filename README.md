@@ -26,6 +26,7 @@
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 </p>
 
 <p align="center">
