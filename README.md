@@ -8,7 +8,7 @@
 - 💬 Ask me about Websites
 - 📫 How to reach me: 
 
-<a href="https://t.me/FarruxbekNozimov">
+<a href="https://t.me/FarruxbekDEV">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/farruxdev7/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
