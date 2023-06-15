@@ -35,12 +35,9 @@
 
 <hr>
 
-<details open="">
-  [<p align="center">
-   <a href="[https://github.com/Ravshanbekov/Ravshanbekov](https://github.com/FarruxbekNozimov)">
-       <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
-  </p>](https://raw.githubusercontent.com/omadli/omadli/master/output/github-contribution-grid-snake.svg)
-</details>
+<div>
+  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 <!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> -->
 <hr>
 .
