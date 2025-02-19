@@ -38,7 +38,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -53,44 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 🛠️ Skills & Technologies
-
-#### **Backend Development**
-- **Languages & Frameworks**: Typescript, ExpressJS, NestJS, KoaJS
-- **Databases**: PostgreSQL, MongoDB, MySQL, Redis, SQL
-- **Tools & Concepts**: Docker, Microservices, Swagger, GraphQL, Telegram bot, TypeORM/MicroORM
-
-#### **Frontend Development**
-- **Languages & Frameworks**: SASS, CSS, JavaScript, Vue.js, Nuxt.js, TailwindCSS, Bootstrap, Pinia
-
-#### **Infrastructure & DevOps**
-- **Cloud & Tools**: AWS EC2, S3, Docker, GitHub/GitLab, CI/CD, Nginx Server Configuration
-- **Server & Hosting**: Docker, Nginx
-
-#### **Soft Skills**
-- Adaptability
-- Teamwork and Collaboration
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farruxbekdev&show_icons=true&theme=radical" alt="Farruxbek's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farruxbekdev&theme=radical" alt="Farruxbek's GitHub Streak" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/farruxbekdev/farruxbekdev/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
 
 ---
 
